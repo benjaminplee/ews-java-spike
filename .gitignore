@@ -1,3 +1,6 @@
+#### Application specific
+ews.properties
+
 #### Adapted From https://raw.githubusercontent.com/github/gitignore/master/Gradle.gitignore
 .gradle
 /build/
