@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ews-java-spike.iml" filepath="$PROJECT_DIR$/.idea/modules/ews-java-spike.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ews-java-spike_main.iml" filepath="$PROJECT_DIR$/.idea/modules/ews-java-spike_main.iml" group="ews-java-spike" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ews-java-spike_test.iml" filepath="$PROJECT_DIR$/.idea/modules/ews-java-spike_test.iml" group="ews-java-spike" />
+    </modules>
+  </component>
+</project>
